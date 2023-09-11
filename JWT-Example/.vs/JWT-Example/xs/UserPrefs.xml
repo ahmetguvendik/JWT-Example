@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{DD3564AF-5B79-4632-9DCF-F8BFDA407222}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Presentation PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Presentation/Program.cs">
+    <Files>
+      <File FileName="Core/Application/CQRS/Commands/User/LoginUser/LoginUserCommandRequest.cs" />
+      <File FileName="Core/Application/CQRS/Commands/User/LoginUser/LoginUserCommandResponse.cs" />
+      <File FileName="Core/Application/CQRS/Commands/User/LoginUser/LoginUserCommandHandler.cs" />
+      <File FileName="Core/Application/CQRS/Commands/User/CreateUser/CreateUserCommandRequest.cs" />
+      <File FileName="Presentation/Presentation/Program.cs" Line="32" Column="142" />
+      <File FileName="Core/Application/Services/Token/ITokenHandler.cs" />
+      <File FileName="Core/Application/DTOs/Token.cs" />
+      <File FileName="Infrastructure/Persistance/Services/Token/TokenHandler.cs" Line="13" Column="46" />
+      <File FileName="Presentation/Presentation/Controllers/UserController.cs" />
+      <File FileName="Infrastructure/Persistance/ServiceRegistration.cs" />
+      <File FileName="Core/Application/ServiceRegistration.cs" />
+      <File FileName="Presentation/Presentation/WeatherForecast.cs" />
+      <File FileName="Core/Application/CQRS/Commands/User/CreateUser/CreateUserCommandHandler.cs" />
+      <File FileName="Infrastructure/Persistance/DesignTimeDbContext.cs" />
+      <File FileName="Presentation/Presentation/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWT-Example" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="CQRS" expanded="True">
+                  <Node name="Commands" expanded="True">
+                    <Node name="User" expanded="True">
+                      <Node name="CreateUser" expanded="True" />
+                      <Node name="LoginUser" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="DTOs" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Token" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Persistance" expanded="True">
+                <Node name="Services" expanded="True">
+                  <Node name="Token" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Presentation" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
